@@ -9,9 +9,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 + (NSDictionary *)JSONKeyPathsByPropertyKey {
-    return @{
-            
-             };
+    return @{@"":@""};
 }
 
 + (NSValueTransformer *)<#property#>JSONTransformer {
